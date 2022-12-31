@@ -12,7 +12,7 @@
         "changelog": "Create the plugin",
         "targetAbi": "10.6.0.0",
         "sourceUrl": "https://raw.githubusercontent.com/sn0wfield/jellyfin-plugins/main/Splante.zip",
-        "checksum": "689cf1b5a9f8adb1a31750da16623996",
+        "checksum": "97e4c82c68319d6685f36bcb2c7ac5b5",
         "timestamp": "2022-12-31T00:00:00Z"
       }
     ]
